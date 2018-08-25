@@ -20,13 +20,13 @@ body {
 h1 {
   font-size: 18px;
   background: #ebebeb;
-  padding: 20px;
-  margin-bottom: 20px;
+  padding: 20px 80px 20px 20px;
+  margin-bottom: 10px;
 }
 
 #nav {
   width: 100%;
-  padding: 20px;
+  padding: 20px 80px 20px 20px;
   margin-bottom: 20px;
 }
 
@@ -40,7 +40,7 @@ section {
 #full {
   float: left;
   width: 495px;
-  padding: 0px 20px 0px 20px;
+  padding: 0px 10px 0px 10px;
 }
 
 #left {
@@ -53,15 +53,16 @@ section {
   color: #ebebeb;
   background: #777;
   padding: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 h2, h3, h4 {
   font-size: 18px;
+  font-weight: bold;
   color: #777;
   background: #ebebeb;
   padding: 20px;
-  margin-top: 20px;
+  margin: 20px 10px 0px 0px;
 }
 
 p {
@@ -69,14 +70,14 @@ p {
   color: #777;
   background: #ebebeb;
   padding: 20px;
-  margin-top: 20px;
+  margin: 10px 10px 0px 0px;
 }
 
 aside {
   float: left;
   background: #ebebeb;
   width: 405px;
-  height: 292px;
+  height: 272px;
   padding: 20px;
   margin-bottom: 20px;
   }
@@ -85,6 +86,6 @@ footer {
   clear: both;
   float: left;
   background: #fff;
-  padding: 20px;
+  padding: 20px 80px 20px 20px;
   width: 100%;
   }
